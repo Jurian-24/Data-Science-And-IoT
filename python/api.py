@@ -19,4 +19,3 @@ class API:
 
 test = API.get()
 
-print(test)
