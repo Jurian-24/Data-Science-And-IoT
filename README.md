@@ -12,15 +12,25 @@ Dit project is voor het keuzevak Data Science and IoT, op de Hogeschool Rotterda
 - Male & Female bedradingen
 - Ionic (voor de mobile app)
 - Gpiozero (librarie voor de afstand sensor)
+- VNC viewer
 ## De gedachte achter dit project
 
 De afgelopen tijd ben ik steeds meer gaan letten op lichaamstaal bij mensen waar ik een gesprek mee heb. Hier kan ik meestal zien of ze het gesprek leuk vinden of niet. Door wat zelfstandig onderzoek te doen ben ik erachter gekomen dat mensen vaak verder van je af staan als ze het gesprek niet leuk vinden of niet interessant genoeg vinden. Dit wilde ik graag testen!
 
 Ik ben gaan nadenken over hoe ik een afstand sensor kan gaan gebruiken om te bepalen of mensen het gesprek leuk of niet leuk vinden.
 
+## Demo
+Demo video: https://youtu.be/5Y9-NMg3k7U
+
 ## Installaties
 
-**Raspberry Pi**
+### Raspberry Pi
+
+**VNC viewer**
+
+Om je Raspberry Pi vanuit een andere computer te kunnen besturen moeten we een remote desktop applicatie installeren. Hiervoor gebruiken we VNC viewer omdat deze veilig en al geinstalleerd staat op je Raspberry. Om deze te aan te zetten moet je de volgende stappen uitvoeren.
+
+Hoe zet je VNC aan? Mijn uitleg: https://youtu.be/sNrSnWoMmww
 
 Als je een Raspberry Pi heb aangeschaft staat er hoogstwaarschijnlijk al een versie van Python op met de bijbehorende libraries. Om dit te checken voeren we een paar commando's uit.
 
@@ -444,3 +454,4 @@ export default {
 </script>
 
 ```
+
