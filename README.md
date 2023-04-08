@@ -150,9 +150,10 @@ Als het goed is zie je dit nu:
 
 ![app screenshot](https://lh3.googleusercontent.com/iKGGLg9C9c3lsAwNLbP1KKTLyEwfWhwzSVXAHBayjRP6er7yXbyHzKJV8yHk6M1V59Tw8CFJk6EGazD6Mxytwcn3Mm10deAedO7KelAoxkCCDWz6GxgkUNaRH6tYDxShoZX0ycxAEjoIx3fIQPoi6AMBauPr3y34ncj7-Wy4GPLjaSxX5sioHz9jX1iNtqoQiNN4JQYLGJlP0kBhdOLx41C-Yi4TLMYlzqnmLgNhvDsvm9rApTr0IoOZ6rmJGZQ_ILrxvxDDF-c6zt-y73hlgFLSpiu_Yk5yKHkwe_vOcXcfixd1V17JE7g6Q7OtsbtxJqPDHvvqxdOItHFEPduOMg_nQG3FQCB1p0yrslfeLEQ9Hs29E9nHI-kPhnG-r5g2_hERQUjYCcKRq9R7D16ALlEGIgP8X5mNojyRaVgOcxn2ELItuKvnJqak7reC5Xdr1qCx2HPZmHr_j4AL7hiA3RRyl797li-MxiReYl14qzNT8yq7BPNAneBJqkGcGhS-_WKif__Ck88ez_PL0LRMwCw9jN4J0wKpHVZzexrM8VXvInTdJh838yi1cHIfYUFxKNTj9gYC5h28ZcrJM-p-vzGMID1gMDOUwNa8zBVozHmBmcpzYL7-mTI6dkfhVZvu0Fa2apcGtEU6ZgYZzd-LBHtNRwxnpyTDdtIqME1TvkUc3WLf33zalAg7qjyIrvjhXuMgJRykY2_IqQdDhu1ck5Ocfx-U49gc6rT4J4RYSKJA_XykQvby07mpvTuwp9koM5wkTW7WI9FhXGbpv9jbIFZ3-l95dXZoFqsPCLs4-1tXxkh890mQqdS38D1pX5vJVcZ5CbtkzBDrLZ-8giIS-xsadg1gVJyriJxtRG3sHe65NyequlXPtCxnGPXZ7V-GZaU7xiGRxNCE7PhG7a1Hoo0WF2A4Qm-4CHj4f6Dm3bFC9flQnjYPPd2eB1BVbdb4ACa80J6ixR2MhWcCjQ=w662-h336-s-no?authuser=0)
 
-Voer vervolgens dit commando uit: 
+Voer vervolgens deze commando's uit: 
 
 ```bash
+$ cd python
 $ python3 main.py
 ```
 Dit is het resultaat:
@@ -168,7 +169,7 @@ Herhaal het installatie proces van VSC & de Github repository en voer daarna de 
 
 ```bash
 $ cd ionic
-$ ionin cap add ios
+$ ionic cap add ios
 $ ionic cap build ios
 ```
 
@@ -185,7 +186,261 @@ Je wordt vervolgens begroet door een IPhone simulator:
 Je kan vervolgens het ID van de geinterviewde persoon in de inpu field zetten en op de knop "Get data" drukken. Vervolgens krijg je een response van een groene check (als de persoon geinteresseerd is in het gesprek) of een rood kruis (als de gebruiker het niet leuk vind)
 
 Groene check:
-![app ss](https://lh3.googleusercontent.com/hk2Sazg7_wRCKXWLK4-kpLEiZFthkNhBZqgCUMQsTpXU9bLmhuq5W2kqJSa5fpJlUKZWRL9z32ZFZkoTcdtdQU1wjJcbWmCpJCaSXvCEHiiG6P6N1gmWih_JTobwONgDbxuqZ_x69X-sGcnDjmPxYkjg167RBVS7gmo5LJluj6abMIqWMhp1SACivC77tmvOROGzkaZypZttJK9yZKmbSpXRi8tO4562yvcm9okmL69pQzbHlW8p5HdhHOlidk3hb2m_CofT-aoKasBDdXUJsrart0gf4aJtTn2ibLpOAC-gzdFekFaalPkX3uPO5ysRsl1m8d8aDLd0sdiSYP1lyRGuDdGz6PmDwGDxTJbaceCigL1U5RbGeNayBU7YyRVWEI5q4-vIEQ0KD17gB_jJ-Le_TQWAj9lI_WVgusQbtZvFd3Io8qKXQ7fvhFy9WnEM1egH4Y7iQr8koQJWzP3yJg2cEwzj-W6_Yy_lwNb6U284wyofXUfsk27kVjBjWZ3nK_YnGXxzmWFG_T8aW0ttwn4tqz8-KXo1XkF3-yV_tAwM9BYE6hAG_L1EWXwalQAdlLbWC7HcG7j1UtKEbMgVwgxHY-qH4AYWMMt1allA6xoVIs53aDCMVo577X1MSDqx8ZljC_gn_A_NowhcHSxllptAY9FYI2qKcipWAUokx4ji733M_PJB_dzVKALho2FCBa-hoJeJFFbpP559xOH6f7EAwsNrbET8lMepp26OlmPBB2gbJ59Fg0pl_XxeIxiN4_PsVplbL6M1rlLRxYfB95CFpUwe0MNZ7HbOS57BbvgCfK47ezNuDqnRSOqY4bXguaVKIRTH-Ra5_vLjVZL-EoPcZreZ7zqbAMT2W_5_J4SHu9JwvPWy3AN5XPPnaMUBDwpBsDbOUZCZA5iJXXAOy0afbCaYJNSGCaIz14hAs9V_7HSsbnyOOFjBWtUutSW4YBYYqZss7jBRYpLYpQ=w764-h1668-s-no?authuser=0)
+![app ss](https://lh3.googleusercontent.com/kPm5YuwIlWyjQdcmGKTb7oB-oeakMdFZ3zHCKL7jaTBMVRD61R3aqKT9u31W3-756tFQY9IJlv-nbWLbcckkrp9GzNhxjr6LL_UamcfAm9Sd5OBWTv5daImfZN5N2c8Lun2s1hwuS7fbkC6ov3OrfWJeSFDzzLGl7tLsBCxCVeYRMDAbiK9Wt7LLuzw1tALhGVSFn8wfP0w2oUWZi7VTW8Rzx0Fl2G9-QzihMMTRwfoCS7SyrpQd4yTZ-901Gxe3j3Omodt4wcvr2FQk71qv0Go1Dx7LrVQQYwj8R3bwFbEOegXrLDs3I3pfvIq3RjkuVWc22CNHXZFZKgGnaRKelD9x52lt6BUshyagHyjKHKfDrGKqI2pIXt7eXdoE3vX3l-T1cNJYYHUBGNhTrqUKWJymWbg3uu-KxEOTA2SZZSZjV6TFkHLSUyq2UljXqb6SdiliFrazxvlMdj3N77KQCWi34dzxwX3-MC7O5qb1zyYwxNRW3FAD6ksrSzMJ3ulGNSNVoYZjwCXp23F8u-cxPcg55KnsI-xLvrCu3f0KCSuu8VBSKii875r0uF1642I3hD1zyKnyHMW71PF6PeOu3W0MS4xFimagHFgK1hRx0mFupP5La5HV1PWwoCxBXmQ7kmtTCeB0PcX9VCjUR63qjAAwE5mDVD-gfJI_S0NV5SXdYGrHYzekNgkEEa3BZmVLrH4TyL91k34xkTAnP4Xol2hol3YJnPPL8e2ej-dbHOx-rdoJmSErCEF9rz7dRi-DJd17l7sxEf-KxEfDYUo1JMHRAF0JlR1tlqN-PuxdSN6tUisyV6MiDjTF2j260S5Qr3EK5kiQTiLC-pVJGLqFKPO444ZS_vi5CovtoFQTnJ2TZzTKoV-6CfxYVu0heE4iy-arA1tly5Y43Bv1vh3QwUNK1xWbAQaFRgPmPgwJjujwddg_b7RQyujKFxfeMivjew-Pa6V15iou7lu1gQ=w772-h912-s-no?authuser=0)
 
 Rood kruis:
-![app ss](https://lh3.googleusercontent.com/tlWqIhlUt5616-8ga1THfXWGwMrjCWKTALnaB5w76XG3tFK4T6hlfATrS42BhNmXLRusEr_kaZWYk4_nAND-NOzxHQJVxvmAJa3xcTHrHvfLmv15CV9DNsiY0hM3isBULyl_8avsNYQdPp2M10kZsHN-gV2NyGTvJ2IRHzNr59exs0pyWNXFmceplJ34rAd2tLvtxGMNEFbfQOKmFYnTpb1py8_VtuGkofj_HAlfV-0YZ8R453iShOSobr8MUwKBOrKe1FLJaVUHkyigt1IAGSKwVeNhs9DRvb31T5MMfm7Cs0k9udAN7_q7ahXMxA7QX0TRhvkCSxm-svNd8U0Q9ghP1DPlhM16jL8XfzRSMxlwX23klhPSK-O5k1aZ9IxxczgpdWfOomMtp64emXjZQyepzadVEEVjQGIa9urism7yO6g8lYBNrXFJ4jjKeNHj9g44eP_8WUUKG0hApjEFo4hKUfxUbK7u45ilq17h-A_DNZ0jlZfmQe1qO5fENlf7uZpeobMgdMynRkG8bVLbBCBOdiohJj34rNYSD7YeeFkrULEPq-ts6Q-NHjvu53WxkbRK8uGn6RWUT8WdVZaLVgmkx9v1FrzVg_PK_XFmb_cfiSfycuOFBm32hCZUqdPn-BdVPRSrn8Z3yzjBXLW7LYmNI1ZYs0g3jrXgr8phzmXN3x4-2AAWd9uVc6yDWJFnQYm9IVZpaPMAY1kYq0AVn4j2frwL3MmcWQu-0X1u7HZ4C22RZFjUkQrh_YqJqqXkyU4y5Kz6ujzEmI0Cli2cnDc79xntlGnXnOU8EDqi41csTVl7Q1eP8eJ_D1NyjI6GMrg9rvcp1it2-yrwh0pJBvaCZZkaNQ2iq9L6xgQXL6QJIOfTlAOq7OfAE30-OOpE-VRTbcCxiS-iESkukHoGo4givFLpwzjne3cqaSnIw81gT0331NmYUvmvzc1H_NTirjbobeY_FlOzLesO4Q=w764-h1668-s-no?authuser=0)
+![app ss](https://lh3.googleusercontent.com/OTUSMHgemGHfHUILUUqUsbpBVeHFgre8nnsCbZC6V-omrdPS5Z0lwwOCPjGAGb7e7Vqwk7knlmQek5EIjElJutzN_oBouLxwe65biSl_VE1z1XhByVRYPqGlbuoZHOkubPI80hdJraB--QrVoad-L7c5rhkpK7KVbWnPJ2dGHxGLNcjn7GV-pUFQv7a6wJvsgwrYyTWNkDog5t7yCo05oTxRBm2rVVFV1lOwQxyQx9bIRHo_jwUzhP-60CDttUFKaFHfDSHt2dp_cH2wzPhod3OSxHm33Hlu5gKzVOV56_vMug-SXJ1oM0feuJu5neyk0iA8lXPQFvcPg2vxTgnmnJS_8UuoYyYmQuWTkne7UaqhHCr5NSFWux_RoILd1tvWfSmqrsvvf0_FQ9d1MT3P2KVP9s2cIYaTUCKfrBPlLCOopn2lChX57_3MLJgPWdq2sI4lktG2NbKKhOpS2ToLyMX_NgoUb6H40H3Gv8WzmmOv5lUDsYZn8jE0Srcjklql4LDX-ic24jk41aejLYF__egU-IDqwrWm98iPCZVsV1plHBwxyVObJUuE0rOaL2WBWa6TbSa-Z5BAApNsqVic515Akvd_lRxNINUBKZnltXUA-i-SZjigUp9BdHAT4fwZ6sHYDZ1xBV9lAa4E3Hls-HIRNa1YOZ11_HpvrttlT4jyy3J8Agfu8cSNgeeOBTZ7Jab1QrZyhxwVFewiBFFFWeH6HM2OGsGbKmPkRrx2thg1MZrA5z2JE8AzcUgHfSXsuAVN9LRibpRxoBubXJU5LbquIoFlJDa9hvqdfD-E6Prdwy_bjhQA--IWmf8qIty6TrLy7s0w2wcJdqMDWtJb_gHo6Lfk-0l9-8NlD8lk15CBFPNhG-DIacEgYjR2GFdcV8MHmhsEn0ma4IVjnNium6h8pFpxFkdl-Q5OcTegy7fYWretKzd-lAjAso3JAeYXt-d1mcz98xVfAthh2w=w772-h942-s-no?authuser=0)
+
+Gefeliciteerd! Je hebt succesvol deze applicatie geinstalleerd!🎉
+
+## Code Uitleg
+
+### Python code: 
+
+```python
+<<MAIN.PY>>
+
+from time import sleep # Makes it possible to send the reading to thingsspeak
+from logic.Person import * # Import the person class
+from api import * # Import the writing functionality
+from gpiozero import DistanceSensor # The sensor that makes it possible!
+
+# Convertion from M to CM
+def getPos():
+    distance = sensor.distance * 100
+    distance = round(distance, 2)
+    return distance
+
+#
+def getPosition(personID):
+    distances = []
+
+    loop = True
+    while(loop):
+        # Check for keyboard interruption
+        try:
+            # Get and convert the distance
+            distance = sensor.distance * 100
+            distance = round(distance, 2)
+            # If the distance > 10M (maximum) print that it needs to be configured. Can occure if a person is moving to fast.
+            if(distance != 1000.0):
+                print(distance)
+                distances.append(getPos())
+                # Write to thingsspeak
+                API.write(distance, personID)
+                sleep(1)
+            else:
+                print("Needs to be configured!")
+                sleep(1)
+                continue
+        # Stop the question and continue to the next
+        except KeyboardInterrupt:
+            loop = False
+            return distances
+
+if __name__ == "__main__":
+    # Distance sensor (HC-SR04) setup
+    sensor = DistanceSensor(23, 24, max_distance=10)
+
+    # Creation of a person
+    id = input("ID: \n > ")
+    firstName = input("First name: \n > ")
+    lastName = input("Last name: \n > ")
+    startPos = 100
+    print("first question")
+    firstQuestion = getPosition(id);
+    print("second question")
+    secondQuestion = getPosition(id);
+    print("third question")
+    thirdQuestion = getPosition(id);
+
+    person = Person(
+        id,
+        firstName,
+        lastName,
+        startPos,
+        firstQuestion,
+        secondQuestion,
+        thirdQuestion
+    )
+
+    try:
+        # write the person to json (is now turned off)
+        person.writePersonToJson()
+        print("Data has been written to JSON!")
+    except:
+        print("Something went wrong")
+
+```
+
+```python
+<<API.PI>>
+import requests
+
+class API:
+    # create static method in order for it to be called everywhere in the code withour creation an API instantiation
+    @staticmethod
+    # Write the code to the thingsspeak field based of the given field (person ID)
+    def write(value, field = 1):
+        requests.post(f"https://api.thingspeak.com/update?api_key=N7QUSQSDA8IUJM89&field{field}={value}")
+
+    # Code for testing the GET method of the API more info in the Ionic code below!
+    def get(field = 2):
+        response = requests.get("https://api.thingspeak.com/channels/2094803/feeds.json?api_key=X6OZE8XX2HH3L7VF&results=8000")
+        response = response.json()
+
+        data = response['feeds']
+
+        test = []
+        for item in data:
+            test.append(item[f'field{field}'])
+
+        return test[::-1]
+
+
+```
+
+```vue
+<template>
+    <ion-page>
+        <ion-header>
+        <ion-toolbar>
+            <ion-title>Main Page</ion-title>
+        </ion-toolbar>
+        </ion-header>
+        <ion-content :fullscreen="true">
+        <ion-header collapse="condense">
+            <ion-toolbar>
+            <ion-title size="large">Tab 1</ion-title>
+            </ion-toolbar>
+        </ion-header>
+        <!-- start of the form -->
+        <ion-grid>
+            <ion-row class="ion-align-items-center">
+            <ion-col size="4"></ion-col>
+            <ion-col size="4" class="ion-text-center">
+                <ion-item>
+                    <ion-label>Enter ID here:</ion-label>
+                    <!-- put the person ID in this field -->
+                    <ion-input id="id-field" aria-label="Enter ID here:"></ion-input>
+                </ion-item>
+                <!-- button for getting the data -->
+                <ion-button color="primary" @click="getDistance()">Get data</ion-button>
+                <!-- show the easter egg or show the red cross/green check -->
+                <lottie-player v-if="showImage" :src="imageSource" background="transparent" speed="1" style="width: 75%; height: 75%;" autoplay></lottie-player>
+                <img v-if="showCapy" :src="imageSource" alt="">
+            </ion-col>
+            <ion-col size="4"></ion-col>
+            </ion-row>
+        <!-- end of the form -->
+        </ion-grid>
+        </ion-content>
+    </ion-page>
+</template>
+
+<script>
+import {
+    IonPage,
+    IonHeader,
+    IonToolbar,
+    IonTitle,
+    IonContent,
+    IonButton,
+    IonGrid,
+    IonCol,
+    IonRow,
+    IonInput
+} from "@ionic/vue";
+import { person } from 'ionicons/icons';
+
+export default {
+    name: "tab-page-1",
+    data() {
+        return {
+            id: 0,
+            personData: [],
+            imageSource: "",
+            showImage: false,
+            showCapy: false
+        }
+    },
+    components: {
+        IonPage,
+        IonHeader,
+        IonToolbar,
+        IonTitle,
+        IonContent,
+        IonButton,
+        IonGrid,
+        IonCol,
+        IonRow,
+        IonInput
+    },
+    methods: {
+        // get the ID in the form
+        receiveID() {
+            this.id = document.getElementById("id-field").value;
+            if(this.id != null) {
+                return this.id;
+            }
+        },
+        // get the distance data
+        getDistance() {
+            // receive the ID
+            const personID = this.receiveID();
+            const personData = [];
+            let obj;
+            this.showImage = false;
+
+            // get the data from the API
+            fetch('https://api.thingspeak.com/channels/2094803/feeds.json?api_key=X6OZE8XX2HH3L7VF&results=8000')
+                // format the data
+                .then(res => res.json())
+                .then(data => {
+                    obj = data['feeds'];
+                })
+                // foreach 'feed' in the received data only get the data from the given ID from the form
+                .then(() => {
+                    obj.forEach(element => {
+                        try {
+                            const newInt = parseInt(element[`field${personID}`])
+                            if(!isNaN(newInt)) {
+                                personData.push(newInt);
+                            }
+                        } catch (error) {
+                            console.log(error)
+                        }
+                    });
+                })
+                // calculate if the person was interested in the conversation or not.
+                .then(() => {
+                    const sum = personData.reduce((partialSum, a) => partialSum + a, 0);
+                    const avg = (sum / personData.length)
+
+                    // check if the average distance was below 50 cm (interested in conversation)
+                    if(avg < 50) {
+                        //determine if the image will be an easter egg or not
+                        const rndInt = Math.floor(Math.random() * 1000);
+                        if(rndInt == 69){
+                            this.showCapy = true;
+                            this.imageSource = "https://external-preview.redd.it/lPGMRn-cDmoLcOWEKqJIhiZKb35_nsdhBQLVon-8bo0.png?format=pjpg&auto=webp&s=827495651278171413c9c5e3fa5ec2411b0c8456"
+                        } else if(rndInt == 420){
+                            this.showCapy = true;
+                            this.imageSource = "https://media.tenor.com/qu3ChHRA6O4AAAAd/gort.gif"
+                        } else {
+                            this.showImage = true
+                            this.imageSource = "https://assets1.lottiefiles.com/packages/lf20_niyfyoqs.json"
+                        }
+                    } else {
+                        this.showImage = true
+                        this.imageSource = "https://assets5.lottiefiles.com/packages/lf20_pqpmxbxp.json"
+                    }
+                })
+                // log any errors
+                .catch(error => console.error(error))
+        }
+    }
+};
+</script>
+
+```
