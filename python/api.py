@@ -17,5 +17,3 @@ class API:
 
         return test[::-1]
 
-test = API.get()
-

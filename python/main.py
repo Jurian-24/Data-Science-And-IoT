@@ -1,5 +1,6 @@
 from time import sleep
 from logic.Person import *
+from api import *
 from gpiozero import DistanceSensor
 
 def getPos():
@@ -7,7 +8,7 @@ def getPos():
     distance = round(distance, 2)
     return distance
 
-def getPosition():
+def getPosition(personID):
     distances = []
 
     loop = True
@@ -18,6 +19,7 @@ def getPosition():
             if(distance != 1000.0):
                 print(distance)
                 distances.append(getPos())
+                API.write(distance, personID)
                 sleep(1)
             else:
                 print("Needs to be configured!")
