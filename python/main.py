@@ -38,11 +38,11 @@ if __name__ == "__main__":
     lastName = input("Last name: \n > ")
     startPos = 100
     print("first question")
-    firstQuestion = getPosition();
+    firstQuestion = getPosition(id);
     print("second question")
-    secondQuestion = getPosition();
+    secondQuestion = getPosition(id);
     print("third question")
-    thirdQuestion = getPosition();
+    thirdQuestion = getPosition(id);
 
     person = Person(
         id,
