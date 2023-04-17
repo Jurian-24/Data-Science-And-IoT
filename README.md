@@ -22,7 +22,25 @@ Ik ben gaan nadenken over hoe ik een afstand sensor kan gaan gebruiken om te bep
 ## Het plan van aanpak
 Nadat ik wist wat ik wilde maken ben ik begonnen met het plan van aanpak samen met onderzoek wat IoT nou precies is en hoe ik dit kan combineren 
 
-Mijn datapipeline:
+## Data pipeline
+
+#### Wat is een data pipeline?
+
+Stel je voor dat je thuis een tuin hebt die je wilt bewateren, maar dat je niet elke dag naar buiten wilt om het handmatig te doen. Daarom besluit je om een systeem te creëren dat automatisch je tuin bewatert op basis van de weersvoorspelling en de vochtigheidsgraad van de bodem.
+
+Hier is hoe een pipeline zou kunnen werken voor jouw tuinbesproeiingssysteem:
+
+- Verzamelen van data: Allereerst moet je data verzamelen van verschillende bronnen, zoals een weer app of een bodemvochtigheidssensor. Deze gegevens kunnen automatisch worden verzameld en naar een centrale locatie worden gestuurd voor verwerking.
+
+- Schoonmaken en voorbewerken van data: Zodra je de gegevens hebt verzameld, moet je ze schoonmaken en voorbewerken om ervoor te zorgen dat ze nauwkeurig en bruikbaar zijn. Je moet bijvoorbeeld eventuele ontbrekende of irrelevante gegevens verwijderen of de gegevens omzetten naar een formaat dat gemakkelijk kan worden geanalyseerd.
+
+- Analyseren van data: Vervolgens ga je de gegevens analyseren. Je kunt bijvoorbeeld kijken naar de weersvoorspellingen en de vochtigheidsgraad van de bodem om te bepalen wanneer je tuin water nodig heeft.
+
+- Bouwen van een model: Op basis van de geanalyseerde gegevens kun je een model bouwen dat voorspelt wanneer je tuin water nodig heeft en hoeveel water er nodig is.
+
+- Implementeren van het model: Ten slotte implementeer je het model in het bewateringssysteem van je tuin, zodat het automatisch water geeft op basis van de voorspellingen en de vochtigheidsgraad van de bodem.
+
+Mijn data pipeline:
 ![pipeline image](https://lh3.googleusercontent.com/RsRKodd4OBVE30SpDu075PVqAT34Z80hVbkRj9aLpe6-rBbqtFC7Iekx4PzKyYHJGG_TLHJ1Z5GHGjvG9BvSswFzc6aq5BLQQW9ltFu0R8T3nDu8MIuVfYcc5M6PGHlbNmS8FNpc0F8vzl8RzboGNDtiIxEK1ZrY469NX7pGfzgjXZEYCMdwXR_8ElT2kmStJotxAHa3CucowhNjVLZTwZJxij5NgCj4dMCTvTCXaRBPVXo2HeDsN9bvW5CRFlYVPowA0V5PZA0VwVSFqqCrDzabW3xRHZsSgXmnafHbKNWhR9RuI_gcS-iMkPdVqCde5l1-GVjPcmjPVOYCBSNY6_8i0fH8p8mkmt0bXdg63dW0vMuCONWlE4jOtrUyQZBrOzB4Rs__jwEvHExfveyvrMlRwe3h2bFEAspsub1KN_KMG30ZMezf7ueso2098VV53TFsSY0kl3zuu018meZZTFU2YbgKbiNzUL6EGthg9kZ2mffllSbfhv4_VNTK6BzGWiG1UPzcd-UOnJgLF_L0mknSivZXBuBXOjoGA9j5uDDFp2RbSeC79CXijZc9l8rXmTZzhcOf2vFBTPeFYeZJPwnuyKnvMlifCCxEHYobIhlFQnAISJW0_bYtkvsi8LboErcnP0yYyNJ_jij9Wi4IXGfnzBgKnY9kekKmenwrUjm7yzHqFJoOItlINF4z9MxIaLvVavXOK2llCN7E_hN-svsp8qHe29XO7QyKuRdewINWgaceWR24CDVaLgK9JZQY32O_Vqi-jmoc4RgOvqOWkkWWgWBzLgw3m1w9KfoHXVbT9KiKCxOYl6PTlfpOaNJgnOSetkBex99r1r57RDGFm1_rSA-BtSEr28_4XnU43SpdNqFvpZIKO_kQaHSUox2o6r1sYfT_Dy8phBf2eizehzloWtU6pLgwF3o20ademMoLf-HRcI6X4IIqHlFOj7D2kBw2egsARHT6av12SQ=w1080-h1080-s-no?authuser=0)
 
 ## Demo
