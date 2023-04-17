@@ -34,6 +34,15 @@ IoT wordt steeds belangrijker vanwege de vele voordelen die het biedt. Hier zijn
 
 Door deze en vele andere voordelen wordt IoT steeds belangrijker voor bedrijven, organisaties en consumenten over de hele wereld.
 
+## Voorbeeld: Philips hue
+Philips Hue maakt gebruik van IoT-technologie om slimme verlichtingsoplossingen te bieden aan consumenten. De Philips Hue-lampen zijn voorzien van geïntegreerde sensoren en internetconnectiviteit, waardoor ze op afstand kunnen worden bediend via een app op een smartphone of tablet. Hierdoor kan de gebruiker de lampen in- en uitschakelen, dimmen, de kleur veranderen en zelfs gepersonaliseerde lichtscènes creëren.
+
+Daarnaast maakt Philips Hue gebruik van IoT om energie-efficiëntie te bieden. De lampen kunnen worden geprogrammeerd om automatisch uit te schakelen wanneer er niemand thuis is, of om te reageren op externe factoren zoals zonsondergang en -opgang, waardoor het energieverbruik kan worden verminderd.
+
+Door het gebruik van IoT-technologie kunnen Philips Hue-lampen ook worden geïntegreerd met andere slimme apparaten en systemen, zoals slimme luidsprekers en slimme thermostaten, om een naadloze en gepersonaliseerde thuiservaring te bieden.
+
+Kortom, Philips Hue maakt gebruik van IoT-technologie om consumenten een intuïtieve en geavanceerde verlichtingservaring te bieden, die kan worden aangepast aan hun persoonlijke voorkeuren en levensstijl, terwijl tegelijkertijd de energie-efficiëntie en het comfort in huis worden verbeterd.
+
 
 ## De gedachte achter dit project
 
@@ -501,9 +510,6 @@ export default {
 </script>
 
 ```
-
-## De IoT Pipeline
-![pipeline](https://lh3.googleusercontent.com/_g9icb8LKyqXnaSf_4tgwL9kKC7CofvhweDFDX2cgP7L-XuDCFHw6zhDoOiWRG2bTjK77toQvQvQoueyMMrrqa6P2F19UyMZRLhaX3vuJxSFyVPCr-ES7PbARKHTl_E53YzQdOjS5_8uUee4akhG-puc7bsfggBG6eFf3jF7ylhLXq1Fb8bRGEZYTP5CqSua01IuHl1hdttYW13ma9XY1_5jyRxM7yvs0BBDJBP2DL7NT14bMkE_GUpSEU2uks034RSxiHMaBnMJQ9eVTPDHO4n9SpM5Q4ZgnGIZZjwL-7_Gh4hxmShmyBbC7tPNie_RSCFR-qJAHLCKZqkB4TsY32U4q0DRUi1ZfRXHhFA4-1bIWZan8FGr-Gu-yH0GpPpTdyCYSE_MdLCGxHeWmO-5t_m_wfEmq1euaV6_-XRWnPFdmvo8OcbfPG3fWyEQzuMtpTB3B7l-wPCqY4wTIYlN0eXcTOMbVzHbLulJZREg2xaVt7mCx6DGK0U7E3A2bnqqg5G2Zw9pswupl9p5cFsrJ15gA70iBa1SPN7BQ6yG6V2ZyBdzhvt0KJ_tyAvIPY6zMwHWfbaHF7w1jOr-y0kRgHgihAyGDIo0wVb01hu6G0NnE60NxlkDgjJsOB2zeVL3KFPg8djfpp76vl9sNSY12zUt9Rz4L6EH2jrbORcCg4tGe05MyMwSkpvbSdjJ9X8387sGFHJc3wxl1QJBZ-BDS2spz_eK_iG74hm-8TRKPKzt8TEiQHVxwvAdQMez9mpea0XRroPOgBH8uVS82hCRBOb9JZXqzbVURK82S0bVN2bQGKw9K5xvYTHJ76wAEfFL4xWYidm6fhuZAsCp0W9w8IRpR2JMSXYNeznzx-Q6AZehdjnuZe-CAebFCaSAmX2Pd-udKaWAFYB3qFQeW8j20TRm_n53HWdfYXaBzeRyNM7_ZKLy0nj2f4TF26O9_MMKctH2CELpJmS7CqmuDw=w1080-h1080-s-no?authuser=0)
 
 ## Conclusie
 
