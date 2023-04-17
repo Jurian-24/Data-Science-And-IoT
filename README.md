@@ -13,6 +13,28 @@ Dit project is voor het keuzevak Data Science and IoT, op de Hogeschool Rotterda
 - Ionic (voor de mobile app)
 - Gpiozero (librarie voor de afstand sensor)
 - VNC viewer
+
+## IoT
+
+### Wat is Iot?
+
+Voor iemand met enige vorm van computerkennis kan IoT worden beschreven als het verbinden van apparaten, sensoren en andere fysieke objecten met het internet, zodat ze gegevens kunnen verzamelen, communiceren en op afstand kunnen worden bediend. Deze apparaten en sensoren worden vaak "slimme apparaten" genoemd en zijn voorzien van internetconnectiviteit en geïntegreerde software en hardware die hen in staat stellen om gegevens te verzamelen en te verzenden. Deze gegevens kunnen vervolgens worden geanalyseerd om inzichten te bieden die kunnen worden gebruikt om processen en besluitvorming te verbeteren, of om automatisering en controle te bieden over de fysieke wereld om ons heen. Bijvoorbeeld, slimme thermostaten kunnen worden gebruikt om de temperatuur in een huis op afstand te regelen, terwijl sensoren op een productielijn kunnen worden gebruikt om de efficiëntie en veiligheid te verbeteren door middel van real-time monitoring.
+
+### Waarom wordt IoT steeds belangrijker?
+
+IoT wordt steeds belangrijker vanwege de vele voordelen die het biedt. Hier zijn enkele redenen waarom IoT zo belangrijk wordt:
+
+1. Efficiëntie en kostenbesparing: Door het gebruik van IoT kunnen bedrijven en organisaties processen en systemen efficiënter maken en kosten besparen. IoT-apparaten kunnen bijvoorbeeld worden gebruikt om het energie- en waterverbruik te monitoren en te verminderen, waardoor bedrijven op de lange termijn kosten kunnen besparen.
+
+2. Verbeterde besluitvorming: IoT-apparaten genereren enorme hoeveelheden gegevens die kunnen worden geanalyseerd om inzichten te bieden en betere beslissingen te nemen. Bijvoorbeeld, met behulp van sensoren en datagestuurde analyses, kunnen landbouwers bepalen welke gewassen het beste groeien in welke omstandigheden, waardoor ze hun oogst kunnen optimaliseren en opbrengsten kunnen verhogen.
+
+3. Verhoogde productiviteit: IoT-apparaten kunnen worden gebruikt om workflows en processen te automatiseren en te optimaliseren, waardoor werknemers zich kunnen richten op taken die waarde toevoegen en de productiviteit kan worden verhoogd.
+
+4. Verbeterde klantervaring: IoT-apparaten kunnen worden gebruikt om betere producten en diensten te leveren en de klantervaring te verbeteren. Bijvoorbeeld, slimme koelkasten kunnen automatisch bestellingen plaatsen voor bepaalde producten wanneer ze opraken, wat het leven van de consumenten gemakkelijker maakt.
+
+Door deze en vele andere voordelen wordt IoT steeds belangrijker voor bedrijven, organisaties en consumenten over de hele wereld.
+
+
 ## De gedachte achter dit project
 
 De afgelopen tijd ben ik steeds meer gaan letten op lichaamstaal bij mensen waar ik een gesprek mee heb. Hier kan ik meestal zien of ze het gesprek leuk vinden of niet. Door wat zelfstandig onderzoek te doen ben ik erachter gekomen dat mensen vaak verder van je af staan als ze het gesprek niet leuk vinden of niet interessant genoeg vinden. Dit wilde ik graag testen!
@@ -40,7 +62,8 @@ Hier is hoe een pipeline zou kunnen werken voor jouw tuinbesproeiingssysteem:
 
 - Implementeren van het model: Ten slotte implementeer je het model in het bewateringssysteem van je tuin, zodat het automatisch water geeft op basis van de voorspellingen en de vochtigheidsgraad van de bodem.
 
-Mijn data pipeline:
+Een voorbeeld de data pipeline voor dit project staat hieronder:
+
 ![pipeline image](https://lh3.googleusercontent.com/RsRKodd4OBVE30SpDu075PVqAT34Z80hVbkRj9aLpe6-rBbqtFC7Iekx4PzKyYHJGG_TLHJ1Z5GHGjvG9BvSswFzc6aq5BLQQW9ltFu0R8T3nDu8MIuVfYcc5M6PGHlbNmS8FNpc0F8vzl8RzboGNDtiIxEK1ZrY469NX7pGfzgjXZEYCMdwXR_8ElT2kmStJotxAHa3CucowhNjVLZTwZJxij5NgCj4dMCTvTCXaRBPVXo2HeDsN9bvW5CRFlYVPowA0V5PZA0VwVSFqqCrDzabW3xRHZsSgXmnafHbKNWhR9RuI_gcS-iMkPdVqCde5l1-GVjPcmjPVOYCBSNY6_8i0fH8p8mkmt0bXdg63dW0vMuCONWlE4jOtrUyQZBrOzB4Rs__jwEvHExfveyvrMlRwe3h2bFEAspsub1KN_KMG30ZMezf7ueso2098VV53TFsSY0kl3zuu018meZZTFU2YbgKbiNzUL6EGthg9kZ2mffllSbfhv4_VNTK6BzGWiG1UPzcd-UOnJgLF_L0mknSivZXBuBXOjoGA9j5uDDFp2RbSeC79CXijZc9l8rXmTZzhcOf2vFBTPeFYeZJPwnuyKnvMlifCCxEHYobIhlFQnAISJW0_bYtkvsi8LboErcnP0yYyNJ_jij9Wi4IXGfnzBgKnY9kekKmenwrUjm7yzHqFJoOItlINF4z9MxIaLvVavXOK2llCN7E_hN-svsp8qHe29XO7QyKuRdewINWgaceWR24CDVaLgK9JZQY32O_Vqi-jmoc4RgOvqOWkkWWgWBzLgw3m1w9KfoHXVbT9KiKCxOYl6PTlfpOaNJgnOSetkBex99r1r57RDGFm1_rSA-BtSEr28_4XnU43SpdNqFvpZIKO_kQaHSUox2o6r1sYfT_Dy8phBf2eizehzloWtU6pLgwF3o20ademMoLf-HRcI6X4IIqHlFOj7D2kBw2egsARHT6av12SQ=w1080-h1080-s-no?authuser=0)
 
 ## Demo
