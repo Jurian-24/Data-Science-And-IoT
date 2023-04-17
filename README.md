@@ -43,6 +43,18 @@ Door het gebruik van IoT-technologie kunnen Philips Hue-lampen ook worden geïnt
 
 Kortom, Philips Hue maakt gebruik van IoT-technologie om consumenten een intuïtieve en geavanceerde verlichtingservaring te bieden, die kan worden aangepast aan hun persoonlijke voorkeuren en levensstijl, terwijl tegelijkertijd de energie-efficiëntie en het comfort in huis worden verbeterd.
 
+## Hoe is data science gekoppeld aan IoT?
+Data Science is gekoppeld aan IoT omdat het de analyse en interpretatie van de enorme hoeveelheden gegevens mogelijk maakt die worden gegenereerd door slimme apparaten en sensoren die zijn verbonden met het internet. Deze gegevens kunnen afkomstig zijn van verschillende bronnen, zoals sensoren in een productielijn, slimme meters voor energieverbruik, of wearables zoals fitnesstrackers.
+
+Met behulp van Data Science-technieken zoals Machine Learning en Predictive Analytics, kunnen deze gegevens worden geanalyseerd om inzichten te bieden die kunnen worden gebruikt om bedrijfsprocessen te verbeteren, kosten te verlagen, efficiëntie te verbeteren, en nieuwe producten en diensten te ontwikkelen.
+
+Bijvoorbeeld, in een productielijn, kunnen sensoren en andere IoT-apparaten gegevens verzamelen over de prestaties van de machines en de productiekwaliteit. Deze gegevens kunnen worden geanalyseerd met behulp van Data Science-technieken om potentiële storingen of defecten te voorspellen voordat ze zich voordoen, waardoor de efficiëntie kan worden verbeterd en ongeplande uitvaltijd kan worden verminderd.
+
+Een ander voorbeeld is slimme energiemeters die continu gegevens verzamelen over het energieverbruik in huizen en bedrijven. Deze gegevens kunnen worden gebruikt om inzicht te krijgen in het energieverbruikspatroon van klanten en om gerichte aanbevelingen te doen voor energiebesparingen.
+
+Kortom, Data Science biedt een krachtige manier om de enorme hoeveelheden gegevens te analyseren en te begrijpen die worden gegenereerd door slimme apparaten en sensoren die verbonden zijn met het IoT. Dit kan helpen bij het verbeteren van de efficiëntie, het verminderen van kosten en het creëren van nieuwe mogelijkheden voor bedrijven en consumenten.
+
+### Genoeg over IoT en dergelijke. Tijd voor het ✨project✨
 
 ## De gedachte achter dit project
 
@@ -510,6 +522,9 @@ export default {
 </script>
 
 ```
+
+## De IoT Pipeline
+![pipeline](https://lh3.googleusercontent.com/_g9icb8LKyqXnaSf_4tgwL9kKC7CofvhweDFDX2cgP7L-XuDCFHw6zhDoOiWRG2bTjK77toQvQvQoueyMMrrqa6P2F19UyMZRLhaX3vuJxSFyVPCr-ES7PbARKHTl_E53YzQdOjS5_8uUee4akhG-puc7bsfggBG6eFf3jF7ylhLXq1Fb8bRGEZYTP5CqSua01IuHl1hdttYW13ma9XY1_5jyRxM7yvs0BBDJBP2DL7NT14bMkE_GUpSEU2uks034RSxiHMaBnMJQ9eVTPDHO4n9SpM5Q4ZgnGIZZjwL-7_Gh4hxmShmyBbC7tPNie_RSCFR-qJAHLCKZqkB4TsY32U4q0DRUi1ZfRXHhFA4-1bIWZan8FGr-Gu-yH0GpPpTdyCYSE_MdLCGxHeWmO-5t_m_wfEmq1euaV6_-XRWnPFdmvo8OcbfPG3fWyEQzuMtpTB3B7l-wPCqY4wTIYlN0eXcTOMbVzHbLulJZREg2xaVt7mCx6DGK0U7E3A2bnqqg5G2Zw9pswupl9p5cFsrJ15gA70iBa1SPN7BQ6yG6V2ZyBdzhvt0KJ_tyAvIPY6zMwHWfbaHF7w1jOr-y0kRgHgihAyGDIo0wVb01hu6G0NnE60NxlkDgjJsOB2zeVL3KFPg8djfpp76vl9sNSY12zUt9Rz4L6EH2jrbORcCg4tGe05MyMwSkpvbSdjJ9X8387sGFHJc3wxl1QJBZ-BDS2spz_eK_iG74hm-8TRKPKzt8TEiQHVxwvAdQMez9mpea0XRroPOgBH8uVS82hCRBOb9JZXqzbVURK82S0bVN2bQGKw9K5xvYTHJ76wAEfFL4xWYidm6fhuZAsCp0W9w8IRpR2JMSXYNeznzx-Q6AZehdjnuZe-CAebFCaSAmX2Pd-udKaWAFYB3qFQeW8j20TRm_n53HWdfYXaBzeRyNM7_ZKLy0nj2f4TF26O9_MMKctH2CELpJmS7CqmuDw=w1080-h1080-s-no?authuser=0)
 
 ## Conclusie
 
